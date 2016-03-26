@@ -6,6 +6,11 @@ uses SIFT feature descriptors and FLANN based matching. Requires initializing
 a region of interest to start tracking.
 
 To run:
+```
 cmake .
+
 make
+
 ./dom name_of_video_stream
+
+```
